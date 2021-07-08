@@ -1,4 +1,5 @@
-# Nhóm sinh viên thực hiện:
+Công nghệ .NET - SE310.L21.PMCL 
++ Nhóm sinh viên thực hiện
 - Nguyễn Hoàng Triều - 17521160
 - Nguyễn Đức Tuấn - 16521563
 - Nguyễn Đông Anh - 17520239
