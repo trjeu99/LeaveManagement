@@ -1,7 +1,7 @@
-Nhóm sinh viên thực hiện:
-Nguyễn Hoàng Triều - 17521160
-Nguyễn Đức Tuấn - 16521563
-Nguyễn Đông Anh - 17520239
+# Nhóm sinh viên thực hiện:
+- Nguyễn Hoàng Triều - 17521160
+- Nguyễn Đức Tuấn - 16521563
+- Nguyễn Đông Anh - 17520239
 
 # Thiết lập để chạy source code trên máy tính local
 - Clone Repository To Local Computer
